@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Netlify URL
+
+https://blissful-kalam-47b816.netlify.com
 
 ## Available Scripts
 
